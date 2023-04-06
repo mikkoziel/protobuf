@@ -10,7 +10,7 @@ PROTOBUF_MAVEN_ARTIFACTS = [
     "com.google.j2objc:j2objc-annotations:1.3",
     "com.google.guava:guava:31.1-jre",
     "com.google.guava:guava-testlib:31.1-jre",
-    "com.google.truth:truth:1.1.2",
+    "com.google.truth:truth:1.1.3",
     "junit:junit:4.13.2",
     "org.mockito:mockito-core:4.3.1",
     "biz.aQute.bnd:biz.aQute.bndlib:6.4.0",
