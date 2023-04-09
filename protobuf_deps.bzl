@@ -14,7 +14,7 @@ PROTOBUF_MAVEN_ARTIFACTS = [
     "junit:junit:4.13.2",
     "org.mockito:mockito-core:4.3.1",
     "biz.aQute.bnd:biz.aQute.bndlib:6.4.0",
-    "info.picocli:picocli:4.6.3",
+    "info.picocli:picocli:4.7.2",
 ]
 
 def _github_archive(repo, commit, **kwargs):
